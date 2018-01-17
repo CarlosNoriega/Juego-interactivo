@@ -1,0 +1,21 @@
+﻿Compilación iniciada a las 27/04/2017 12:24:44 p. m..
+     1>Proyecto "C:\Users\charl\Documents\Visual Studio 2013\Projects\ProyectoFinal\ProyectoFinal.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\charl\OneDrive\TEC\semestre12\Graficas computacionales\JDSF\gl" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\charl\documents\visual studio 2013\projects\proyectofinal\main.cpp(474): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\charl\documents\visual studio 2013\projects\proyectofinal\main.cpp(525): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\charl\documents\visual studio 2013\projects\proyectofinal\main.cpp(668): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\charl\documents\visual studio 2013\projects\proyectofinal\main.cpp(671): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\charl\documents\visual studio 2013\projects\proyectofinal\main.cpp(688): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\charl\documents\visual studio 2013\projects\proyectofinal\main.cpp(688): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\charl\documents\visual studio 2013\projects\proyectofinal\main.cpp(689): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\charl\documents\visual studio 2013\projects\proyectofinal\main.cpp(693): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\charl\Documents\Visual Studio 2013\Projects\Debug\ProyectoFinal.exe" /INCREMENTAL /NOLOGO freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\charl\Documents\Visual Studio 2013\Projects\Debug\ProyectoFinal.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\charl\Documents\Visual Studio 2013\Projects\Debug\ProyectoFinal.lib" /MACHINE:X86 Debug\main.obj
+         ProyectoFinal.vcxproj -> C:\Users\charl\Documents\Visual Studio 2013\Projects\Debug\ProyectoFinal.exe
+     1>Compilación del proyecto terminada "C:\Users\charl\Documents\Visual Studio 2013\Projects\ProyectoFinal\ProyectoFinal.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:06.50
